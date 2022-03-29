@@ -1,0 +1,11 @@
+first step :
+
+execute the setup :
+
+python3 setup.py
+
+second step :
+
+launch the program :
+
+python3 launch.py
