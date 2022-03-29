@@ -14,7 +14,8 @@ passW is a CLI password manager for linux written in python3 with root authentic
 - Installation :
 
 ```
-sudo apt install python3
+sudo apt install python3 git
+git clone https://github.com/goro16/passW.git
 python3 setup.py
 ```
 
