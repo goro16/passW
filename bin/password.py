@@ -4,14 +4,14 @@ import os
 
 def main():
 	os.system('clear')
-	print("                   __          __")
-	print("                   \ \        / /")
-	print("  _ __   __ _ ___ __\ \  /\  / / ")
-	print(" | '_ \ / _` / __/ __\ \/  \/ /  ")
-	print(" | |_) | (_| \__ \__ \\  /\  /   ")
-	print(" | .__/ \__,_|___/___/ \/  \/    ")
-	print(" | |                             ")
-	print(" |_|                             ")
+	print("                     __          __")
+        print("                     \ \        / /")
+        print("  _ __   __ _ ________\ \  /\  / / ")
+        print(" | '_ \ / _` / __/ __/ \ \/  \/ /  ")
+        print(" | |_) | (_| \__ \__ \  \  /\  /   ")
+        print(" | .__/ \__,_|___/___/   \/  \/    ")
+        print(" | |                             ")
+        print(" |_|                             ")
 	print("created by goro16")
 	a = input("\n1- look the saves passwords\n2- add a new password\n3- delete a password\n4- exit\nchoose a number : ")
 
